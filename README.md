@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### 🎯 Focus
+   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammiori&show_icons=true&theme=swift)](https://github.com/iammiori/github-readme-stats)
+
 <!--
 **iammiori/iammiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
