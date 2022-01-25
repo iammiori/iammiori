@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm miyeon. I develop iS and study steadily.
+I'm miyeon. I develop iS native app and study steadily.
 
 ### 🎯 Focus
    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white" />
