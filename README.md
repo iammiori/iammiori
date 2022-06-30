@@ -6,7 +6,7 @@ I'm miyeon. I develop iS native app and study steadily.&nbsp;&nbsp;&nbsp;&nbs
    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white" />
 
 ### 🌱 I’m currently learning ...
-   <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" /> <img src="https://img.shields.io/badge/SwiftUI-50B3D6?style=flat-square&logo=Swift&logoColor=white" />
+   <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" /> <img src="https://img.shields.io/badge/SwiftUI-50B3D6?style=flat-square&logo=Swift&logoColor=white" /> <img src="https://img.shields.io/badge/Combine-0071e3?style=flat-square&logo=Swift&logoColor=white" />
    <br><b> I'm writing down what I've studied on my blog. And codes are here👋 [miori-app Organizations](https://github.com/miori-app)</b>
 
 ### 🛠 I can use
