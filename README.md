@@ -8,6 +8,9 @@ I'm miyeon. I develop iS native app and study steadily.&nbsp;&nbsp;&nbsp;&nbs
 ### 🌱 I’m currently learning ...
    <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" /> <img src="https://img.shields.io/badge/SwiftUI-50B3D6?style=flat-square&logo=Swift&logoColor=white" /> <img src="https://img.shields.io/badge/Combine-0071e3?style=flat-square&logo=Swift&logoColor=white" />
    <br><b> I'm writing down what I've studied on my blog. And codes are here👋 [miori-app Organizations](https://github.com/miori-app)</b>
+<br>   
+### 🎵 Currently working
+- <img src="https://img.shields.io/badge/SwiftUI-50B3D6?style=flat-square&logo=Swift&logoColor=white" />  + <img src="https://img.shields.io/badge/Combine-0071e3?style=flat-square&logo=Swift&logoColor=white" /> => repo : [WeightLifting Training Log App](https://github.com/iammiori/JustLift)
 
 ### 🛠 I can use
    - 👩‍💻 Dev
