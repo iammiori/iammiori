@@ -23,6 +23,7 @@ I'm miyeon. I develop iS native app and study steadily.&nbsp;&nbsp;&nbsp;&nbs
    
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
 
+<!--
 ### 🏋🏻‍♀️ My Github Stats
 [![iammiori's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammiori&show_icons=true&theme=swift)](https://github.com/iammiori/github-readme-stats)    
 <!--
